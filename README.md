@@ -1,39 +1,49 @@
 <h2 align="left">Hi 👋! I'm Ravi Tiwari</h2>
 
 <p align="left">
-  <strong>AI Engineer & Full-stack Developer</strong> based in Gurgaon. I specialize in building AI-driven systems and scalable web applications. Currently focused on creating <strong>Nexus OS</strong>—an operating system for AI Automation Agencies.
+  <strong>AI Engineer & Full-stack Developer</strong> based in Gurgaon. I build high-impact AI systems and scalable web applications, bridging the gap between complex AI research and real-world business utility.
 </p>
 
 <br clear="both">
 
-<img align="right" height="150" src="https://portfolio.befytai.online/wp-content/uploads/2023/09/WhatsApp-Image-2023-04-16-at-2.13.58-PM.jpeg"  />
+<img align="right" height="160" src="https://portfolio.befytai.online/wp-content/uploads/2023/09/WhatsApp-Image-2023-04-16-at-2.13.58-PM.jpeg"  />
 
-### 🛠️ Tech Stack
+### 🚀 Core Focus & Expertise
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="js logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgres logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/amazonwebservices-original-wordmark.svg" height="30" alt="aws logo"  />
-</div>
+- **Agentic AI:** Building autonomous workflows and multi-agent systems.
+- **Enterprise AI:** Scaling AI solutions for agencies and businesses (Nexus OS).
+- **Full-stack Dev:** Specialized in the Next.js, Django, and MongoDB ecosystem.
+- **IoT & Hardware:** Patented work in assistive AI wearable devices.
 
-### 🚀 Current Project
-- **Nexus OS**: Building a Founder-Centric Operating System for AI Automation Agencies to scale through strategically curated AI content.
+### 🏆 Key Achievements
+
+- 📜 **Patent Holder:** 'Wearable Device for visually impaired person' (No: 202211045348).
+- 🥉 **SIH 2022 Finalist:** Represented at the Smart India Hackathon (DRDO).
+- 🎖️ **Hackathon Success:** Top 20 in IISF 2021 and Top 5 in Chandigarh Police Hackathon.
+
+### 🛠️ Technical Toolkit
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | `Python`, `TypeScript`, `JavaScript`, `C++`, `Java` |
+| **AI / ML** | `PyTorch`, `TensorFlow`, `SOTA LLMs`, `LangChain`, `Pandas`, `NumPy` |
+| **Frontend** | `Next.js 16`, `React`, `Tailwind CSS`, `Framer Motion` |
+| **Backend** | `Django`, `FastAPI`, `Node.js`, `PostgreSQL`, `MongoDB` |
+| **Cloud/DevOps** | `AWS`, `Docker`, `Nginx`, `Git`, `Linux` |
+
+### 🌟 Featured Projects
+
+- **🌌 Nexus OS**: An Agency Operating System for AI Automation Agencies focusing on Human-in-the-Loop (HITL) workflows.
+- **🤖 SAMEEP AI**: Enterprise AI employee ticketing tool built on AWS.
+- **🎓 Takshashila**: AI-driven hiring platform using Django and MongoDB.
+- **👁️ Lenstacle**: Patented AI assistive device for object and facial recognition.
+
+### 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravi-Tiwari-2710&show_icons=true&theme=tokyonight" alt="Ravi's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ravi-Tiwari-2710&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
+</p>
 
 ### 🌐 Connect with me
 
