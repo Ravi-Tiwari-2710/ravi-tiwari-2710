@@ -37,6 +37,11 @@
 - **🤖 SAMEEP AI**: Enterprise AI employee ticketing tool built on AWS.
 - **🎓 Takshashila**: AI-driven hiring platform using Django and MongoDB.
 - **👁️ Lenstacle**: Patented AI assistive device for object and facial recognition.
+- **🚔 Smart Traffic Intelligence**: AI-powered ANPR system with overspeeding detection and stolen vehicle watchlist integration.
+- **🏥 Health-e-AI**: IoT-integrated healthcare diagnostic system with CNN and ML-based disease prediction.
+- **🌊 Flood-Predict**: ML-based early warning system analyzing rainfall patterns for flood risk assessment.
+- **🌾 AgriBot**: Professional WhatsApp-integrated AI assistant for farmers with intent classification.
+- **📄 OmniPDF AI**: GenAI knowledge retrieval system for multi-PDF chatting using RAG pipeline.
 
 ### 📈 GitHub Stats
 
